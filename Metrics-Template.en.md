@@ -1,1 +1,0 @@
-# Metrics Template (EN)
