@@ -1,1 +1,0 @@
-# Mini-PRD Template (EN)
