@@ -1,1 +1,0 @@
-# RICE Template (ES)
